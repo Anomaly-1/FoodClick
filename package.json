@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.2.0",
-    "@vueuse/core": "^10.7.2",
+    "@vueuse/core": "^10.9.0",
     "animejs": "^3.2.2",
     "dotenv": "^16.4.5",
     "marked": "^12.0.0",
